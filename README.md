@@ -1,11 +1,15 @@
 # vue-lbgv
 > login backgound video
 
+[![NPM](https://nodei.co/npm/vue-lbgv.png)](https://nodei.co/npm/vue-lbgv/)
+
 ![demo](docs/gif.gif)
 
 基于vue的背景视频播放组件
 
 ```javascript
+
+yarn add vue-lbgv
 
 import VueLbgv from 'vue-lbgv'
 
